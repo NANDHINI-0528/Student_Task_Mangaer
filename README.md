@@ -23,5 +23,8 @@ Student Task Manager is a simple Python-based application that helps students ma
 ## Project Type
 CLI-Based Application
 
+## Future Improvement
+In the future, this application can be improved by saving tasks permanently.
+
 ## Developed By
 Nandhini Ganesan
